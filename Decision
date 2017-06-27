@@ -1,0 +1,4 @@
+import random
+
+decision = ["yes" , "no"]
+print(random.choice(decision))
